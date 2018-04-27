@@ -1,0 +1,30 @@
+  h1{
+
+  font-family: verdana;
+  color:blue;
+}
+
+ h2{
+  font-family: verdana;
+  color:blue;
+}
+
+p{
+ font-family: verdana;
+}
+
+body {
+    background: linear-gradient(to bottom, #6666ff 0%, #ff33cc 100%);
+}
+
+<html>
+<ul>
+<li> Travelling and Exploring Places</li>
+<li>Reading Adventure Books </li>
+</ul>
+<p><a href="/test.html">Test Page</a>
+
+</body>
+</html>
+ Github directory:
+test.html   (   <a href="index.html">Return to Main Page</a>) test.css
